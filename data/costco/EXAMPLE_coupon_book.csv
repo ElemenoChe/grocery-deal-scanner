@@ -1,0 +1,5 @@
+item,brand,size,discount,sale_price,regular_price,valid_from,valid_to,notes
+EXAMPLE Kirkland Signature Paper Towels,Kirkland Signature,12 ct,$4 OFF,,24.99,2026-09-24,2026-10-19,sample row - replace with the real book
+EXAMPLE Kirkland Signature Organic Whole Milk,Kirkland Signature,3 x 0.5 gal,$2 OFF,,12.99,2026-09-24,2026-10-19,sample row - replace with the real book
+EXAMPLE Kirkland Signature House Blend Coffee,Kirkland Signature,40 oz,$3 OFF,,17.99,2026-09-24,2026-10-19,sample row - replace with the real book
+EXAMPLE Large Cage-Free Eggs,Kirkland Signature,24 ct,,6.49,7.49,2026-09-24,2026-10-19,sample row - replace with the real book

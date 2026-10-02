@@ -1,0 +1,45 @@
+# Your personal list.
+#   frequency    = times you buy it per month (overridden by purchase history)
+#   keywords     = words that must appear in the product name (defaults to the name)
+#   exclude      = words that disqualify a product
+#   target_price = flags the deal with 🎯 when price <= this
+items:
+  - name: milk
+    keywords: [milk]
+    exclude: [chocolate, almond, oat, condensed, evaporated]
+    frequency: 4
+    target_price: 3.00
+  - name: eggs
+    keywords: [egg]
+    exclude: [noodle, roll, substitute]
+    frequency: 4
+  - name: bananas
+    keywords: [banana]
+    exclude: [chip, bread, pudding]
+    frequency: 4
+  - name: chicken breast
+    keywords: [chicken, breast]
+    frequency: 3
+    target_price: 2.99
+  - name: bread
+    keywords: [bread]
+    exclude: [crumb, banana]
+    frequency: 2
+  - name: greek yogurt
+    keywords: [greek, yogurt]
+    frequency: 2
+  - name: peanut butter
+    keywords: [peanut, butter]
+    exclude: [cup, cracker, cookie]
+    frequency: 1
+  - name: spaghetti
+    keywords: [spaghetti]
+    exclude: [sauce]
+    frequency: 1
+  - name: paper towels
+    keywords: [paper, towel]
+    frequency: 0.5
+  - name: coffee
+    keywords: [coffee]
+    exclude: [creamer, filter, mug]
+    frequency: 1

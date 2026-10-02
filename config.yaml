@@ -1,0 +1,13 @@
+# Copy to config.yaml and edit. API keys go in environment variables, not here.
+grocery_list: grocery_list.yaml
+purchase_history: data/purchase_history.csv   # optional, makes "buys/mo" automatic
+
+kroger:
+  enabled: true
+  zip_code: "75201"        # finds the nearest Kroger-family store
+  # location_id: "03500529"  # or pin an exact store (overrides zip_code)
+  results_per_item: 10
+
+costco:
+  enabled: true
+  folder: data/costco       # drop each month's coupon book CSV here
