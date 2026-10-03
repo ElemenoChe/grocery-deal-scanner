@@ -1,0 +1,667 @@
+{
+  "generated": "2026-10-03T23:48:52",
+  "stores": [
+    "kroger",
+    "costco"
+  ],
+  "estimated_monthly_savings": 10.01,
+  "items": [
+    {
+      "item": "milk",
+      "frequency_per_month": 4.89,
+      "target_price": 3.0,
+      "hits_target": true,
+      "monthly_savings": 0.0,
+      "best": {
+        "store": "Kroger",
+        "name": "Kroger\u00ae 2% Reduced Fat Milk Half Gallon",
+        "price": 1.89,
+        "regular_price": 1.89,
+        "size": "1/2 gal",
+        "brand": "Kroger",
+        "product_id": "0001111041600",
+        "valid_from": null,
+        "valid_to": null,
+        "url": "https://www.kroger.com/p/0001111041600",
+        "notes": null,
+        "savings": 0.0,
+        "on_sale": false,
+        "unit_price": {
+          "value": 0.0074,
+          "unit": "fl oz"
+        }
+      },
+      "alternatives": [
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Vitamin D Whole Milk Half Gallon",
+          "price": 1.89,
+          "regular_price": 1.89,
+          "size": "1/2 gal",
+          "brand": "Kroger",
+          "product_id": "0001111040601",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111040601",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.0074,
+            "unit": "fl oz"
+          }
+        },
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae 1% Lowfat Milk Half Gallon",
+          "price": 1.89,
+          "regular_price": 1.89,
+          "size": "1/2 gal",
+          "brand": "Kroger",
+          "product_id": "0001111041661",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111041661",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.0074,
+            "unit": "fl oz"
+          }
+        }
+      ]
+    },
+    {
+      "item": "eggs",
+      "frequency_per_month": 2.72,
+      "target_price": null,
+      "hits_target": false,
+      "monthly_savings": 0.0,
+      "best": {
+        "store": "Kroger",
+        "name": "Kroger\u00ae Medium Grade A White Eggs",
+        "price": 3.89,
+        "regular_price": 3.89,
+        "size": "30 ct",
+        "brand": "Kroger",
+        "product_id": "0001111060980",
+        "valid_from": null,
+        "valid_to": null,
+        "url": "https://www.kroger.com/p/0001111060980",
+        "notes": null,
+        "savings": 0.0,
+        "on_sale": false,
+        "unit_price": {
+          "value": 0.1297,
+          "unit": "ct"
+        }
+      },
+      "alternatives": [
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Grade A Large White Eggs",
+          "price": 8.29,
+          "regular_price": 8.29,
+          "size": "60 ct",
+          "brand": "Kroger",
+          "product_id": "0001111060914",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111060914",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.1382,
+            "unit": "ct"
+          }
+        },
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Grade A Large White Eggs",
+          "price": 2.49,
+          "regular_price": 2.49,
+          "size": "18 ct",
+          "brand": "Kroger",
+          "product_id": "0001111060933",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111060933",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.1383,
+            "unit": "ct"
+          }
+        }
+      ]
+    },
+    {
+      "item": "chicken breast",
+      "frequency_per_month": 1.63,
+      "target_price": 2.99,
+      "hits_target": false,
+      "monthly_savings": 8.13,
+      "best": {
+        "store": "Kroger",
+        "name": "Kroger\u00ae Boneless Skinless Frozen Chicken Breast BIG DEAL!",
+        "price": 20.0,
+        "regular_price": 24.99,
+        "size": "8 lb",
+        "brand": "Kroger",
+        "product_id": "0001111067942",
+        "valid_from": null,
+        "valid_to": null,
+        "url": "https://www.kroger.com/p/0001111067942",
+        "notes": null,
+        "savings": 4.99,
+        "on_sale": true,
+        "unit_price": {
+          "value": 0.1562,
+          "unit": "oz"
+        }
+      },
+      "alternatives": [
+        {
+          "store": "Kroger",
+          "name": "Heritage Farm\u00ae Boneless Skinless Chicken Breasts",
+          "price": 2.59,
+          "regular_price": 2.59,
+          "size": "1 lb",
+          "brand": "Heritage Farm",
+          "product_id": "0028334900000",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0028334900000",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.1619,
+            "unit": "oz"
+          }
+        },
+        {
+          "store": "Kroger",
+          "name": "Tyson\u00ae All Natural Fresh Boneless Skinless Chicken Breasts",
+          "price": 3.99,
+          "regular_price": 4.99,
+          "size": "1 lb",
+          "brand": "Tyson",
+          "product_id": "0026082900000",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0026082900000",
+          "notes": null,
+          "savings": 1.0,
+          "on_sale": true,
+          "unit_price": {
+            "value": 0.2494,
+            "unit": "oz"
+          }
+        }
+      ]
+    },
+    {
+      "item": "bananas",
+      "frequency_per_month": 1.63,
+      "target_price": null,
+      "hits_target": false,
+      "monthly_savings": 0.0,
+      "best": {
+        "store": "Kroger",
+        "name": "Fresh Bunch of Bananas \u2013 5-7 Bananas",
+        "price": 0.49,
+        "regular_price": 0.49,
+        "size": "1 lb",
+        "brand": "Fresh Bananas",
+        "product_id": "0000000004011",
+        "valid_from": null,
+        "valid_to": null,
+        "url": "https://www.kroger.com/p/0000000004011",
+        "notes": null,
+        "savings": 0.0,
+        "on_sale": false,
+        "unit_price": {
+          "value": 0.0306,
+          "unit": "oz"
+        }
+      },
+      "alternatives": [
+        {
+          "store": "Kroger",
+          "name": "Fresh Bunch of Organic Bananas \u2013 5-7 Bananas",
+          "price": 0.75,
+          "regular_price": 0.75,
+          "size": "1 lb",
+          "brand": "Fresh Bananas",
+          "product_id": "0000000094011",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0000000094011",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.0469,
+            "unit": "oz"
+          }
+        },
+        {
+          "store": "Kroger",
+          "name": "Baby Bananas",
+          "price": 0.99,
+          "regular_price": 0.99,
+          "size": "1 lb",
+          "brand": null,
+          "product_id": "0000000004186",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0000000004186",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.0619,
+            "unit": "oz"
+          }
+        }
+      ]
+    },
+    {
+      "item": "spaghetti",
+      "frequency_per_month": 1.0,
+      "target_price": null,
+      "hits_target": false,
+      "monthly_savings": 0.0,
+      "best": {
+        "store": "Kroger",
+        "name": "Kroger\u00ae Spaghetti",
+        "price": 1.33,
+        "regular_price": 1.33,
+        "size": "16 oz",
+        "brand": "Kroger",
+        "product_id": "0001111085004",
+        "valid_from": null,
+        "valid_to": null,
+        "url": "https://www.kroger.com/p/0001111085004",
+        "notes": null,
+        "savings": 0.0,
+        "on_sale": false,
+        "unit_price": {
+          "value": 0.0831,
+          "unit": "oz"
+        }
+      },
+      "alternatives": [
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Thin Spaghetti",
+          "price": 1.33,
+          "regular_price": 1.33,
+          "size": "16 oz",
+          "brand": "Kroger",
+          "product_id": "0001111085020",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111085020",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.0831,
+            "unit": "oz"
+          }
+        },
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Pot Sized Spaghetti",
+          "price": 1.33,
+          "regular_price": 1.33,
+          "size": "16 oz",
+          "brand": "Kroger",
+          "product_id": "0001111084923",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111084923",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.0831,
+            "unit": "oz"
+          }
+        }
+      ]
+    },
+    {
+      "item": "coffee",
+      "frequency_per_month": 0.54,
+      "target_price": null,
+      "hits_target": false,
+      "monthly_savings": 1.62,
+      "best": {
+        "store": "Costco",
+        "name": "EXAMPLE Kirkland Signature House Blend Coffee",
+        "price": 14.99,
+        "regular_price": 17.99,
+        "size": "40 oz",
+        "brand": "Kirkland Signature",
+        "product_id": null,
+        "valid_from": "2026-09-24",
+        "valid_to": "2026-10-19",
+        "url": null,
+        "notes": "sample row - replace with the real book",
+        "savings": 3.0,
+        "on_sale": true,
+        "unit_price": {
+          "value": 0.3748,
+          "unit": "oz"
+        }
+      },
+      "alternatives": [
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Original Medium Roast Ground Coffee",
+          "price": 13.99,
+          "regular_price": 14.49,
+          "size": "29 oz",
+          "brand": "Kroger",
+          "product_id": "0001111015000",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111015000",
+          "notes": null,
+          "savings": 0.5,
+          "on_sale": true,
+          "unit_price": {
+            "value": 0.4824,
+            "unit": "oz"
+          }
+        },
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Breakfast Blend Mild Roast Ground Coffee",
+          "price": 6.0,
+          "regular_price": 6.0,
+          "size": "11 oz",
+          "brand": "Kroger",
+          "product_id": "0001111010738",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111010738",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.5455,
+            "unit": "oz"
+          }
+        }
+      ]
+    },
+    {
+      "item": "peanut butter",
+      "frequency_per_month": 0.54,
+      "target_price": null,
+      "hits_target": false,
+      "monthly_savings": 0.26,
+      "best": {
+        "store": "Kroger",
+        "name": "Kroger\u00ae Peanut Butter Creamy BIG Deal!",
+        "price": 6.0,
+        "regular_price": 6.49,
+        "size": "64 oz",
+        "brand": "Kroger",
+        "product_id": "0001111073932",
+        "valid_from": null,
+        "valid_to": null,
+        "url": "https://www.kroger.com/p/0001111073932",
+        "notes": null,
+        "savings": 0.49,
+        "on_sale": true,
+        "unit_price": {
+          "value": 0.0938,
+          "unit": "oz"
+        }
+      },
+      "alternatives": [
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Creamy Peanut Butter",
+          "price": 4.99,
+          "regular_price": 4.99,
+          "size": "40 oz",
+          "brand": "Kroger",
+          "product_id": "0001111009853",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111009853",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.1247,
+            "unit": "oz"
+          }
+        },
+        {
+          "store": "Kroger",
+          "name": "Creamy Peanut Butter - Kroger - 16 Oz",
+          "price": 2.29,
+          "regular_price": 2.29,
+          "size": "16 oz",
+          "brand": "Kroger",
+          "product_id": "0001111001618",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111001618",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.1431,
+            "unit": "oz"
+          }
+        }
+      ]
+    },
+    {
+      "item": "bread",
+      "frequency_per_month": 0.54,
+      "target_price": null,
+      "hits_target": false,
+      "monthly_savings": 0.0,
+      "best": {
+        "store": "Kroger",
+        "name": "Smart Way\u00ae White Bread",
+        "price": 1.49,
+        "regular_price": 1.49,
+        "size": "16 oz",
+        "brand": "Smart Way",
+        "product_id": "0001111016888",
+        "valid_from": null,
+        "valid_to": null,
+        "url": "https://www.kroger.com/p/0001111016888",
+        "notes": null,
+        "savings": 0.0,
+        "on_sale": false,
+        "unit_price": {
+          "value": 0.0931,
+          "unit": "oz"
+        }
+      },
+      "alternatives": [
+        {
+          "store": "Kroger",
+          "name": "Smart Way\u00ae Wheat Bread",
+          "price": 1.49,
+          "regular_price": 1.49,
+          "size": "16 oz",
+          "brand": "Smart Way",
+          "product_id": "0001111016887",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111016887",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.0931,
+            "unit": "oz"
+          }
+        },
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Wheat Bread",
+          "price": 1.99,
+          "regular_price": 1.99,
+          "size": "20 oz",
+          "brand": "Kroger",
+          "product_id": "0001111016874",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111016874",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.0995,
+            "unit": "oz"
+          }
+        }
+      ]
+    },
+    {
+      "item": "greek yogurt",
+      "frequency_per_month": 0.54,
+      "target_price": null,
+      "hits_target": false,
+      "monthly_savings": 0.0,
+      "best": {
+        "store": "Kroger",
+        "name": "Kroger\u00ae Plain Nonfat Greek Yogurt Tub",
+        "price": 4.29,
+        "regular_price": 4.29,
+        "size": "32 oz",
+        "brand": "Kroger",
+        "product_id": "0001111010717",
+        "valid_from": null,
+        "valid_to": null,
+        "url": "https://www.kroger.com/p/0001111010717",
+        "notes": null,
+        "savings": 0.0,
+        "on_sale": false,
+        "unit_price": {
+          "value": 0.1341,
+          "unit": "oz"
+        }
+      },
+      "alternatives": [
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Plain Whole Milk Greek Yogurt Cultured Dairy Blend Tub",
+          "price": 4.29,
+          "regular_price": 4.29,
+          "size": "32 oz",
+          "brand": "Kroger",
+          "product_id": "0001111013600",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111013600",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.1341,
+            "unit": "oz"
+          }
+        },
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Vanilla Blended Nonfat Greek Yogurt Tub",
+          "price": 4.29,
+          "regular_price": 4.29,
+          "size": "32 oz",
+          "brand": "Kroger",
+          "product_id": "0001111010716",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111010716",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.1341,
+            "unit": "oz"
+          }
+        }
+      ]
+    },
+    {
+      "item": "paper towels",
+      "frequency_per_month": 0.54,
+      "target_price": null,
+      "hits_target": false,
+      "monthly_savings": 0.0,
+      "best": {
+        "store": "Kroger",
+        "name": "Kroger\u00ae Rugged + Reliable Paper Towels Double Plus Rolls BIG DEAL!",
+        "price": 20.0,
+        "regular_price": 20.0,
+        "size": "12 ct",
+        "brand": "Kroger",
+        "product_id": "0001111016088",
+        "valid_from": null,
+        "valid_to": null,
+        "url": "https://www.kroger.com/p/0001111016088",
+        "notes": null,
+        "savings": 0.0,
+        "on_sale": false,
+        "unit_price": {
+          "value": 1.6667,
+          "unit": "ct"
+        }
+      },
+      "alternatives": [
+        {
+          "store": "Costco",
+          "name": "EXAMPLE Kirkland Signature Paper Towels",
+          "price": 20.99,
+          "regular_price": 24.99,
+          "size": "12 ct",
+          "brand": "Kirkland Signature",
+          "product_id": null,
+          "valid_from": "2026-09-24",
+          "valid_to": "2026-10-19",
+          "url": null,
+          "notes": "sample row - replace with the real book",
+          "savings": 4.0,
+          "on_sale": true,
+          "unit_price": {
+            "value": 1.7492,
+            "unit": "ct"
+          }
+        },
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Glimmer Select-A-Sheet Paper Towels Double Rolls",
+          "price": 3.0,
+          "regular_price": 3.0,
+          "size": "2 rolls",
+          "brand": "Kroger",
+          "product_id": "0001111010621",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111010621",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": null
+        }
+      ]
+    }
+  ]
+}
