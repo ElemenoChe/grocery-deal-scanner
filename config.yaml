@@ -4,7 +4,7 @@ purchase_history: data/purchase_history.csv   # optional, makes "buys/mo" automa
 
 kroger:
   enabled: true
-  zip_code: "75201"        # finds the nearest Kroger-family store
+  zip_code: "77494"        # finds the nearest Kroger-family store
   # location_id: "03500529"  # or pin an exact store (overrides zip_code)
   results_per_item: 10
 
