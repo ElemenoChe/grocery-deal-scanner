@@ -1,6 +1,6 @@
 # Grocery Deal Report
 
-Generated 2026-10-07 18:57 · Stores: kroger, costco
+Generated 2026-10-14 17:11 · Stores: kroger, costco
 
 **10/10 list items found · est. savings $10.01/month at your usual buying rate**
 
@@ -9,7 +9,7 @@ Generated 2026-10-07 18:57 · Stores: kroger, costco
 | Item | Buys/mo | Best store | Product | Size | Price | Reg. | Unit price | Saves/mo |
 |---|---:|---|---|---|---:|---:|---:|---:|
 | **milk** 🎯 | 4.89 | Kroger | Kroger® 2% Reduced Fat Milk Half Gallon | 1/2 gal | $1.89 | $1.89 | $0.007/fl oz | $0.00 |
-| **eggs** | 2.72 | Kroger | Kroger® Medium Grade A White Eggs | 30 ct | $3.89 | $3.89 | $0.13/ct | $0.00 |
+| **eggs** | 2.72 | Kroger | Kroger® Grade A Large White Eggs | 60 ct | $8.29 | $8.29 | $0.14/ct | $0.00 |
 | **chicken breast** | 1.63 | Kroger | Kroger® Boneless Skinless Frozen Chicken Breast BIG DEAL! | 8 lb | $20.00 | $24.99 | $0.16/oz | $8.13 |
 | **bananas** | 1.63 | Kroger | Fresh Bunch of Bananas – 5-7 Bananas | 1 lb | $0.49 | $0.49 | $0.031/oz | $0.00 |
 | **spaghetti** | 1 | Kroger | Kroger® Spaghetti | 16 oz | $1.33 | $1.33 | $0.083/oz | $0.00 |
@@ -24,9 +24,9 @@ Generated 2026-10-07 18:57 · Stores: kroger, costco
 **Costco** (1 items, $14.99)
 - [ ] coffee: EXAMPLE Kirkland Signature House Blend Coffee @ $14.99
 
-**Kroger** (9 items, $59.08)
+**Kroger** (9 items, $63.48)
 - [ ] milk: Kroger® 2% Reduced Fat Milk Half Gallon @ $1.89
-- [ ] eggs: Kroger® Medium Grade A White Eggs @ $3.89
+- [ ] eggs: Kroger® Grade A Large White Eggs @ $8.29
 - [ ] chicken breast: Kroger® Boneless Skinless Frozen Chicken Breast BIG DEAL! @ $20.00
 - [ ] bananas: Fresh Bunch of Bananas – 5-7 Bananas @ $0.49
 - [ ] spaghetti: Kroger® Spaghetti @ $1.33

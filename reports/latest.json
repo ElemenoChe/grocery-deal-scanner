@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07T18:57:42",
+  "generated": "2026-10-14T17:11:58",
   "stores": [
     "kroger",
     "costco"
@@ -80,43 +80,24 @@
       "monthly_savings": 0.0,
       "best": {
         "store": "Kroger",
-        "name": "Kroger\u00ae Medium Grade A White Eggs",
-        "price": 3.89,
-        "regular_price": 3.89,
-        "size": "30 ct",
+        "name": "Kroger\u00ae Grade A Large White Eggs",
+        "price": 8.29,
+        "regular_price": 8.29,
+        "size": "60 ct",
         "brand": "Kroger",
-        "product_id": "0001111060980",
+        "product_id": "0001111060914",
         "valid_from": null,
         "valid_to": null,
-        "url": "https://www.kroger.com/p/0001111060980",
+        "url": "https://www.kroger.com/p/0001111060914",
         "notes": null,
         "savings": 0.0,
         "on_sale": false,
         "unit_price": {
-          "value": 0.1297,
+          "value": 0.1382,
           "unit": "ct"
         }
       },
       "alternatives": [
-        {
-          "store": "Kroger",
-          "name": "Kroger\u00ae Grade A Large White Eggs",
-          "price": 8.29,
-          "regular_price": 8.29,
-          "size": "60 ct",
-          "brand": "Kroger",
-          "product_id": "0001111060914",
-          "valid_from": null,
-          "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111060914",
-          "notes": null,
-          "savings": 0.0,
-          "on_sale": false,
-          "unit_price": {
-            "value": 0.1382,
-            "unit": "ct"
-          }
-        },
         {
           "store": "Kroger",
           "name": "Kroger\u00ae Grade A Large White Eggs",
@@ -133,6 +114,25 @@
           "on_sale": false,
           "unit_price": {
             "value": 0.1383,
+            "unit": "ct"
+          }
+        },
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Grade A Large White Eggs",
+          "price": 1.69,
+          "regular_price": 1.69,
+          "size": "12 ct",
+          "brand": "Kroger",
+          "product_id": "0001111060903",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111060903",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.1408,
             "unit": "ct"
           }
         }
@@ -185,20 +185,20 @@
         },
         {
           "store": "Kroger",
-          "name": "Tyson\u00ae All Natural Fresh Boneless Skinless Chicken Breasts",
-          "price": 3.99,
-          "regular_price": 4.99,
-          "size": "1 lb",
-          "brand": "Tyson",
-          "product_id": "0026082900000",
+          "name": "Smart Way\u2122 Fresh Uncooked Thin Sliced Boneless Skinless Chicken Breasts",
+          "price": 5.0,
+          "regular_price": 5.0,
+          "size": "1.25 lb",
+          "brand": null,
+          "product_id": "0001111018028",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0026082900000",
+          "url": "https://www.kroger.com/p/0001111018028",
           "notes": null,
-          "savings": 1.0,
-          "on_sale": true,
+          "savings": 0.0,
+          "on_sale": false,
           "unit_price": {
-            "value": 0.2494,
+            "value": 0.25,
             "unit": "oz"
           }
         }
@@ -317,20 +317,20 @@
         },
         {
           "store": "Kroger",
-          "name": "Kroger\u00ae Pot Sized Spaghetti",
-          "price": 1.33,
-          "regular_price": 1.33,
-          "size": "16 oz",
-          "brand": "Kroger",
-          "product_id": "0001111084923",
+          "name": "Barilla Spaghetti Pasta, Quality Non-GMO and Kosher Certified Pasta",
+          "price": 2.99,
+          "regular_price": 3.49,
+          "size": "32 oz",
+          "brand": "Barilla",
+          "product_id": "0007680852319",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111084923",
+          "url": "https://www.kroger.com/p/0007680852319",
           "notes": null,
-          "savings": 0.0,
-          "on_sale": false,
+          "savings": 0.5,
+          "on_sale": true,
           "unit_price": {
-            "value": 0.0831,
+            "value": 0.0934,
             "unit": "oz"
           }
         }
@@ -383,20 +383,20 @@
         },
         {
           "store": "Kroger",
-          "name": "Starbucks\u00ae House Blend Medium Roast Ground Coffee",
-          "price": 7.99,
-          "regular_price": 12.99,
-          "size": "12 oz",
-          "brand": "Starbucks",
-          "product_id": "0076211120605",
+          "name": "Kroger\u00ae Classic Blend Medium Roast Ground Coffee",
+          "price": 13.99,
+          "regular_price": 14.49,
+          "size": "29 oz",
+          "brand": "Kroger",
+          "product_id": "0001111014953",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0076211120605",
+          "url": "https://www.kroger.com/p/0001111014953",
           "notes": null,
-          "savings": 5.0,
+          "savings": 0.5,
           "on_sale": true,
           "unit_price": {
-            "value": 0.6658,
+            "value": 0.4824,
             "unit": "oz"
           }
         }
@@ -431,7 +431,7 @@
         {
           "store": "Kroger",
           "name": "Kroger\u00ae Creamy Peanut Butter",
-          "price": 4.99,
+          "price": 4.49,
           "regular_price": 4.99,
           "size": "40 oz",
           "brand": "Kroger",
@@ -440,16 +440,16 @@
           "valid_to": null,
           "url": "https://www.kroger.com/p/0001111009853",
           "notes": null,
-          "savings": 0.0,
-          "on_sale": false,
+          "savings": 0.5,
+          "on_sale": true,
           "unit_price": {
-            "value": 0.1247,
+            "value": 0.1123,
             "unit": "oz"
           }
         },
         {
           "store": "Kroger",
-          "name": "Creamy Peanut Butter - Kroger - 16 Oz",
+          "name": "Kroger\u00ae Creamy Peanut Butter",
           "price": 2.29,
           "regular_price": 2.29,
           "size": "16 oz",
@@ -647,19 +647,22 @@
         },
         {
           "store": "Kroger",
-          "name": "Kroger\u00ae Glimmer Select-A-Sheet Paper Towels Double Rolls",
-          "price": 3.0,
-          "regular_price": 3.0,
-          "size": "2 rolls",
+          "name": "Kroger\u00ae Ultra Absorbing Power Paper Towels Triple Rolls",
+          "price": 16.99,
+          "regular_price": 18.99,
+          "size": "8 ct",
           "brand": "Kroger",
-          "product_id": "0001111010621",
+          "product_id": "0001111014187",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111010621",
+          "url": "https://www.kroger.com/p/0001111014187",
           "notes": null,
-          "savings": 0.0,
-          "on_sale": false,
-          "unit_price": null
+          "savings": 2.0,
+          "on_sale": true,
+          "unit_price": {
+            "value": 2.1237,
+            "unit": "ct"
+          }
         }
       ]
     }
