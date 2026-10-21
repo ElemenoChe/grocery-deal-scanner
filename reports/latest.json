@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-14T17:11:58",
+  "generated": "2026-10-21T17:14:09",
   "stores": [
     "kroger",
     "costco"
   ],
-  "estimated_monthly_savings": 10.01,
+  "estimated_monthly_savings": 9.2,
   "items": [
     {
       "item": "milk",
@@ -77,62 +77,62 @@
       "frequency_per_month": 2.72,
       "target_price": null,
       "hits_target": false,
-      "monthly_savings": 0.0,
+      "monthly_savings": 0.54,
       "best": {
         "store": "Kroger",
         "name": "Kroger\u00ae Grade A Large White Eggs",
-        "price": 8.29,
-        "regular_price": 8.29,
-        "size": "60 ct",
+        "price": 1.49,
+        "regular_price": 1.69,
+        "size": "12 ct",
         "brand": "Kroger",
-        "product_id": "0001111060914",
+        "product_id": "0001111060903",
         "valid_from": null,
         "valid_to": null,
-        "url": "https://www.kroger.com/p/0001111060914",
+        "url": "https://www.kroger.com/p/0001111060903",
         "notes": null,
-        "savings": 0.0,
-        "on_sale": false,
+        "savings": 0.2,
+        "on_sale": true,
         "unit_price": {
-          "value": 0.1382,
+          "value": 0.1242,
           "unit": "ct"
         }
       },
       "alternatives": [
         {
           "store": "Kroger",
-          "name": "Kroger\u00ae Grade A Large White Eggs",
-          "price": 2.49,
-          "regular_price": 2.49,
-          "size": "18 ct",
+          "name": "Kroger\u00ae Medium Grade A White Eggs",
+          "price": 3.89,
+          "regular_price": 3.89,
+          "size": "30 ct",
           "brand": "Kroger",
-          "product_id": "0001111060933",
+          "product_id": "0001111060980",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111060933",
+          "url": "https://www.kroger.com/p/0001111060980",
           "notes": null,
           "savings": 0.0,
           "on_sale": false,
           "unit_price": {
-            "value": 0.1383,
+            "value": 0.1297,
             "unit": "ct"
           }
         },
         {
           "store": "Kroger",
           "name": "Kroger\u00ae Grade A Large White Eggs",
-          "price": 1.69,
-          "regular_price": 1.69,
-          "size": "12 ct",
+          "price": 8.29,
+          "regular_price": 8.29,
+          "size": "60 ct",
           "brand": "Kroger",
-          "product_id": "0001111060903",
+          "product_id": "0001111060914",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111060903",
+          "url": "https://www.kroger.com/p/0001111060914",
           "notes": null,
           "savings": 0.0,
           "on_sale": false,
           "unit_price": {
-            "value": 0.1408,
+            "value": 0.1382,
             "unit": "ct"
           }
         }
@@ -213,8 +213,8 @@
       "best": {
         "store": "Kroger",
         "name": "Fresh Bunch of Bananas \u2013 5-7 Bananas",
-        "price": 0.49,
-        "regular_price": 0.49,
+        "price": 0.55,
+        "regular_price": 0.55,
         "size": "1 lb",
         "brand": "Fresh Bananas",
         "product_id": "0000000004011",
@@ -225,7 +225,7 @@
         "savings": 0.0,
         "on_sale": false,
         "unit_price": {
-          "value": 0.0306,
+          "value": 0.0344,
           "unit": "oz"
         }
       },
@@ -233,8 +233,8 @@
         {
           "store": "Kroger",
           "name": "Fresh Bunch of Organic Bananas \u2013 5-7 Bananas",
-          "price": 0.75,
-          "regular_price": 0.75,
+          "price": 0.79,
+          "regular_price": 0.79,
           "size": "1 lb",
           "brand": "Fresh Bananas",
           "product_id": "0000000094011",
@@ -245,7 +245,7 @@
           "savings": 0.0,
           "on_sale": false,
           "unit_price": {
-            "value": 0.0469,
+            "value": 0.0494,
             "unit": "oz"
           }
         },
@@ -298,20 +298,20 @@
       "alternatives": [
         {
           "store": "Kroger",
-          "name": "Kroger\u00ae Thin Spaghetti",
-          "price": 1.33,
-          "regular_price": 1.33,
-          "size": "16 oz",
-          "brand": "Kroger",
-          "product_id": "0001111085020",
+          "name": "Skinner\u00ae Spaghetti Rigate Pasta",
+          "price": 1.0,
+          "regular_price": 1.29,
+          "size": "12 oz",
+          "brand": "Skinner",
+          "product_id": "0001270000007",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111085020",
+          "url": "https://www.kroger.com/p/0001270000007",
           "notes": null,
-          "savings": 0.0,
-          "on_sale": false,
+          "savings": 0.29,
+          "on_sale": true,
           "unit_price": {
-            "value": 0.0831,
+            "value": 0.0833,
             "unit": "oz"
           }
         },
@@ -341,46 +341,27 @@
       "frequency_per_month": 0.54,
       "target_price": null,
       "hits_target": false,
-      "monthly_savings": 1.62,
+      "monthly_savings": 0.27,
       "best": {
-        "store": "Costco",
-        "name": "EXAMPLE Kirkland Signature House Blend Coffee",
-        "price": 14.99,
-        "regular_price": 17.99,
-        "size": "40 oz",
-        "brand": "Kirkland Signature",
-        "product_id": null,
-        "valid_from": "2026-09-24",
-        "valid_to": "2026-10-19",
-        "url": null,
-        "notes": "sample row - replace with the real book",
-        "savings": 3.0,
+        "store": "Kroger",
+        "name": "Kroger\u00ae Original Medium Roast Ground Coffee",
+        "price": 13.99,
+        "regular_price": 14.49,
+        "size": "29 oz",
+        "brand": "Kroger",
+        "product_id": "0001111015000",
+        "valid_from": null,
+        "valid_to": null,
+        "url": "https://www.kroger.com/p/0001111015000",
+        "notes": null,
+        "savings": 0.5,
         "on_sale": true,
         "unit_price": {
-          "value": 0.3748,
+          "value": 0.4824,
           "unit": "oz"
         }
       },
       "alternatives": [
-        {
-          "store": "Kroger",
-          "name": "Kroger\u00ae Original Medium Roast Ground Coffee",
-          "price": 13.99,
-          "regular_price": 14.49,
-          "size": "29 oz",
-          "brand": "Kroger",
-          "product_id": "0001111015000",
-          "valid_from": null,
-          "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111015000",
-          "notes": null,
-          "savings": 0.5,
-          "on_sale": true,
-          "unit_price": {
-            "value": 0.4824,
-            "unit": "oz"
-          }
-        },
         {
           "store": "Kroger",
           "name": "Kroger\u00ae Classic Blend Medium Roast Ground Coffee",
@@ -397,6 +378,25 @@
           "on_sale": true,
           "unit_price": {
             "value": 0.4824,
+            "unit": "oz"
+          }
+        },
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Breakfast Blend Mild Roast Ground Coffee",
+          "price": 6.0,
+          "regular_price": 6.0,
+          "size": "11 oz",
+          "brand": "Kroger",
+          "product_id": "0001111010738",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111010738",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.5455,
             "unit": "oz"
           }
         }
@@ -476,59 +476,59 @@
       "monthly_savings": 0.0,
       "best": {
         "store": "Kroger",
-        "name": "Smart Way\u00ae White Bread",
-        "price": 1.19,
-        "regular_price": 1.19,
-        "size": "16 oz",
-        "brand": "Smart Way",
-        "product_id": "0001111016888",
+        "name": "Wonder Classic White Bread",
+        "price": 3.29,
+        "regular_price": 3.29,
+        "size": "20 oz",
+        "brand": "Wonder",
+        "product_id": "0007225001137",
         "valid_from": null,
         "valid_to": null,
-        "url": "https://www.kroger.com/p/0001111016888",
+        "url": "https://www.kroger.com/p/0007225001137",
         "notes": null,
         "savings": 0.0,
         "on_sale": false,
         "unit_price": {
-          "value": 0.0744,
+          "value": 0.1645,
           "unit": "oz"
         }
       },
       "alternatives": [
         {
           "store": "Kroger",
-          "name": "Smart Way\u00ae Wheat Bread",
-          "price": 1.19,
-          "regular_price": 1.19,
-          "size": "16 oz",
-          "brand": "Smart Way",
-          "product_id": "0001111016887",
+          "name": "Nature's Own Honey Wheat Bread, Non-GMO Sandwich Bread, 20 oz Loaf",
+          "price": 3.99,
+          "regular_price": 4.29,
+          "size": "20 oz",
+          "brand": "Nature's Own",
+          "product_id": "0007225003706",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111016887",
+          "url": "https://www.kroger.com/p/0007225003706",
           "notes": null,
-          "savings": 0.0,
-          "on_sale": false,
+          "savings": 0.3,
+          "on_sale": true,
           "unit_price": {
-            "value": 0.0744,
+            "value": 0.1995,
             "unit": "oz"
           }
         },
         {
           "store": "Kroger",
-          "name": "Kroger\u00ae Wheat Bread",
-          "price": 1.99,
-          "regular_price": 1.99,
+          "name": "Sara Lee Honey Wheat Bread",
+          "price": 3.99,
+          "regular_price": 3.99,
           "size": "20 oz",
-          "brand": "Kroger",
-          "product_id": "0001111016874",
+          "brand": "Sara Lee",
+          "product_id": "0007294560136",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111016874",
+          "url": "https://www.kroger.com/p/0007294560136",
           "notes": null,
           "savings": 0.0,
           "on_sale": false,
           "unit_price": {
-            "value": 0.0995,
+            "value": 0.1995,
             "unit": "oz"
           }
         }
@@ -627,25 +627,6 @@
       },
       "alternatives": [
         {
-          "store": "Costco",
-          "name": "EXAMPLE Kirkland Signature Paper Towels",
-          "price": 20.99,
-          "regular_price": 24.99,
-          "size": "12 ct",
-          "brand": "Kirkland Signature",
-          "product_id": null,
-          "valid_from": "2026-09-24",
-          "valid_to": "2026-10-19",
-          "url": null,
-          "notes": "sample row - replace with the real book",
-          "savings": 4.0,
-          "on_sale": true,
-          "unit_price": {
-            "value": 1.7492,
-            "unit": "ct"
-          }
-        },
-        {
           "store": "Kroger",
           "name": "Kroger\u00ae Ultra Absorbing Power Paper Towels Triple Rolls",
           "price": 16.99,
@@ -663,6 +644,22 @@
             "value": 2.1237,
             "unit": "ct"
           }
+        },
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Glimmer Select-A-Sheet Paper Towels Double Rolls",
+          "price": 3.0,
+          "regular_price": 3.0,
+          "size": "2 rolls",
+          "brand": "Kroger",
+          "product_id": "0001111010621",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111010621",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": null
         }
       ]
     }
