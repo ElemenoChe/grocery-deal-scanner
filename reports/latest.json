@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-21T17:14:09",
+  "generated": "2026-10-28T18:21:36",
   "stores": [
     "kroger",
     "costco"
   ],
-  "estimated_monthly_savings": 9.2,
+  "estimated_monthly_savings": 8.74,
   "items": [
     {
       "item": "milk",
@@ -77,46 +77,27 @@
       "frequency_per_month": 2.72,
       "target_price": null,
       "hits_target": false,
-      "monthly_savings": 0.54,
+      "monthly_savings": 0.0,
       "best": {
         "store": "Kroger",
-        "name": "Kroger\u00ae Grade A Large White Eggs",
-        "price": 1.49,
-        "regular_price": 1.69,
-        "size": "12 ct",
+        "name": "Kroger\u00ae Medium Grade A White Eggs",
+        "price": 3.89,
+        "regular_price": 3.89,
+        "size": "30 ct",
         "brand": "Kroger",
-        "product_id": "0001111060903",
+        "product_id": "0001111060980",
         "valid_from": null,
         "valid_to": null,
-        "url": "https://www.kroger.com/p/0001111060903",
+        "url": "https://www.kroger.com/p/0001111060980",
         "notes": null,
-        "savings": 0.2,
-        "on_sale": true,
+        "savings": 0.0,
+        "on_sale": false,
         "unit_price": {
-          "value": 0.1242,
+          "value": 0.1297,
           "unit": "ct"
         }
       },
       "alternatives": [
-        {
-          "store": "Kroger",
-          "name": "Kroger\u00ae Medium Grade A White Eggs",
-          "price": 3.89,
-          "regular_price": 3.89,
-          "size": "30 ct",
-          "brand": "Kroger",
-          "product_id": "0001111060980",
-          "valid_from": null,
-          "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111060980",
-          "notes": null,
-          "savings": 0.0,
-          "on_sale": false,
-          "unit_price": {
-            "value": 0.1297,
-            "unit": "ct"
-          }
-        },
         {
           "store": "Kroger",
           "name": "Kroger\u00ae Grade A Large White Eggs",
@@ -133,6 +114,25 @@
           "on_sale": false,
           "unit_price": {
             "value": 0.1382,
+            "unit": "ct"
+          }
+        },
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Grade A Large White Eggs",
+          "price": 2.49,
+          "regular_price": 2.49,
+          "size": "18 ct",
+          "brand": "Kroger",
+          "product_id": "0001111060933",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111060933",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.1383,
             "unit": "ct"
           }
         }
@@ -275,11 +275,11 @@
       "frequency_per_month": 1.0,
       "target_price": null,
       "hits_target": false,
-      "monthly_savings": 0.0,
+      "monthly_savings": 0.08,
       "best": {
         "store": "Kroger",
         "name": "Kroger\u00ae Spaghetti",
-        "price": 1.33,
+        "price": 1.25,
         "regular_price": 1.33,
         "size": "16 oz",
         "brand": "Kroger",
@@ -288,115 +288,115 @@
         "valid_to": null,
         "url": "https://www.kroger.com/p/0001111085004",
         "notes": null,
-        "savings": 0.0,
-        "on_sale": false,
+        "savings": 0.08,
+        "on_sale": true,
         "unit_price": {
-          "value": 0.0831,
+          "value": 0.0781,
           "unit": "oz"
         }
       },
       "alternatives": [
         {
           "store": "Kroger",
-          "name": "Skinner\u00ae Spaghetti Rigate Pasta",
-          "price": 1.0,
-          "regular_price": 1.29,
-          "size": "12 oz",
-          "brand": "Skinner",
-          "product_id": "0001270000007",
+          "name": "Kroger\u00ae Thin Spaghetti",
+          "price": 1.25,
+          "regular_price": 1.33,
+          "size": "16 oz",
+          "brand": "Kroger",
+          "product_id": "0001111085020",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0001270000007",
+          "url": "https://www.kroger.com/p/0001111085020",
           "notes": null,
-          "savings": 0.29,
+          "savings": 0.08,
           "on_sale": true,
           "unit_price": {
-            "value": 0.0833,
+            "value": 0.0781,
             "unit": "oz"
           }
         },
         {
           "store": "Kroger",
-          "name": "Barilla Spaghetti Pasta, Quality Non-GMO and Kosher Certified Pasta",
-          "price": 2.99,
-          "regular_price": 3.49,
-          "size": "32 oz",
-          "brand": "Barilla",
-          "product_id": "0007680852319",
+          "name": "Kroger\u00ae Pot Sized Spaghetti",
+          "price": 1.25,
+          "regular_price": 1.33,
+          "size": "16 oz",
+          "brand": "Kroger",
+          "product_id": "0001111084923",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0007680852319",
+          "url": "https://www.kroger.com/p/0001111084923",
           "notes": null,
-          "savings": 0.5,
+          "savings": 0.08,
           "on_sale": true,
           "unit_price": {
-            "value": 0.0934,
+            "value": 0.0781,
             "unit": "oz"
           }
         }
       ]
     },
     {
-      "item": "coffee",
+      "item": "bread",
       "frequency_per_month": 0.54,
       "target_price": null,
       "hits_target": false,
       "monthly_savings": 0.27,
       "best": {
         "store": "Kroger",
-        "name": "Kroger\u00ae Original Medium Roast Ground Coffee",
-        "price": 13.99,
-        "regular_price": 14.49,
-        "size": "29 oz",
-        "brand": "Kroger",
-        "product_id": "0001111015000",
+        "name": "Sara Lee Honey Wheat Bread",
+        "price": 3.49,
+        "regular_price": 3.99,
+        "size": "20 oz",
+        "brand": "Sara Lee",
+        "product_id": "0007294560136",
         "valid_from": null,
         "valid_to": null,
-        "url": "https://www.kroger.com/p/0001111015000",
+        "url": "https://www.kroger.com/p/0007294560136",
         "notes": null,
         "savings": 0.5,
         "on_sale": true,
         "unit_price": {
-          "value": 0.4824,
+          "value": 0.1745,
           "unit": "oz"
         }
       },
       "alternatives": [
         {
           "store": "Kroger",
-          "name": "Kroger\u00ae Classic Blend Medium Roast Ground Coffee",
-          "price": 13.99,
-          "regular_price": 14.49,
-          "size": "29 oz",
-          "brand": "Kroger",
-          "product_id": "0001111014953",
+          "name": "Nature's Own Honey Wheat Bread, Non-GMO Sandwich Bread, 20 oz Loaf",
+          "price": 4.29,
+          "regular_price": 4.29,
+          "size": "20 oz",
+          "brand": "Nature's Own",
+          "product_id": "0007225003706",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111014953",
+          "url": "https://www.kroger.com/p/0007225003706",
           "notes": null,
-          "savings": 0.5,
-          "on_sale": true,
+          "savings": 0.0,
+          "on_sale": false,
           "unit_price": {
-            "value": 0.4824,
+            "value": 0.2145,
             "unit": "oz"
           }
         },
         {
           "store": "Kroger",
-          "name": "Kroger\u00ae Breakfast Blend Mild Roast Ground Coffee",
-          "price": 6.0,
-          "regular_price": 6.0,
-          "size": "11 oz",
-          "brand": "Kroger",
-          "product_id": "0001111010738",
+          "name": "Nature's Own Butterbread Bread",
+          "price": 4.29,
+          "regular_price": 4.29,
+          "size": "20 oz",
+          "brand": "Nature's Own",
+          "product_id": "0007225004919",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111010738",
+          "url": "https://www.kroger.com/p/0007225004919",
           "notes": null,
           "savings": 0.0,
           "on_sale": false,
           "unit_price": {
-            "value": 0.5455,
+            "value": 0.2145,
             "unit": "oz"
           }
         }
@@ -469,66 +469,66 @@
       ]
     },
     {
-      "item": "bread",
+      "item": "coffee",
       "frequency_per_month": 0.54,
       "target_price": null,
       "hits_target": false,
       "monthly_savings": 0.0,
       "best": {
         "store": "Kroger",
-        "name": "Wonder Classic White Bread",
-        "price": 3.29,
-        "regular_price": 3.29,
-        "size": "20 oz",
-        "brand": "Wonder",
-        "product_id": "0007225001137",
+        "name": "Kroger\u00ae Original Medium Roast Ground Coffee",
+        "price": 14.49,
+        "regular_price": 14.49,
+        "size": "29 oz",
+        "brand": "Kroger",
+        "product_id": "0001111015000",
         "valid_from": null,
         "valid_to": null,
-        "url": "https://www.kroger.com/p/0007225001137",
+        "url": "https://www.kroger.com/p/0001111015000",
         "notes": null,
         "savings": 0.0,
         "on_sale": false,
         "unit_price": {
-          "value": 0.1645,
+          "value": 0.4997,
           "unit": "oz"
         }
       },
       "alternatives": [
         {
           "store": "Kroger",
-          "name": "Nature's Own Honey Wheat Bread, Non-GMO Sandwich Bread, 20 oz Loaf",
-          "price": 3.99,
-          "regular_price": 4.29,
-          "size": "20 oz",
-          "brand": "Nature's Own",
-          "product_id": "0007225003706",
+          "name": "Kroger\u00ae Breakfast Blend Mild Roast Ground Coffee",
+          "price": 6.0,
+          "regular_price": 6.0,
+          "size": "11 oz",
+          "brand": "Kroger",
+          "product_id": "0001111010738",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0007225003706",
+          "url": "https://www.kroger.com/p/0001111010738",
           "notes": null,
-          "savings": 0.3,
-          "on_sale": true,
+          "savings": 0.0,
+          "on_sale": false,
           "unit_price": {
-            "value": 0.1995,
+            "value": 0.5455,
             "unit": "oz"
           }
         },
         {
           "store": "Kroger",
-          "name": "Sara Lee Honey Wheat Bread",
-          "price": 3.99,
-          "regular_price": 3.99,
-          "size": "20 oz",
-          "brand": "Sara Lee",
-          "product_id": "0007294560136",
+          "name": "Seattle's Best Coffee Breakfast Blend Medium Roast Ground Coffee",
+          "price": 6.99,
+          "regular_price": 9.79,
+          "size": "12 oz",
+          "brand": "Seattle's Best",
+          "product_id": "0001291901206",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0007294560136",
+          "url": "https://www.kroger.com/p/0001291901206",
           "notes": null,
-          "savings": 0.0,
-          "on_sale": false,
+          "savings": 2.8,
+          "on_sale": true,
           "unit_price": {
-            "value": 0.1995,
+            "value": 0.5825,
             "unit": "oz"
           }
         }
@@ -629,7 +629,7 @@
         {
           "store": "Kroger",
           "name": "Kroger\u00ae Ultra Absorbing Power Paper Towels Triple Rolls",
-          "price": 16.99,
+          "price": 18.99,
           "regular_price": 18.99,
           "size": "8 ct",
           "brand": "Kroger",
@@ -638,10 +638,10 @@
           "valid_to": null,
           "url": "https://www.kroger.com/p/0001111014187",
           "notes": null,
-          "savings": 2.0,
-          "on_sale": true,
+          "savings": 0.0,
+          "on_sale": false,
           "unit_price": {
-            "value": 2.1237,
+            "value": 2.3737,
             "unit": "ct"
           }
         },
