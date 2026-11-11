@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-04T19:46:25",
+  "generated": "2026-11-11T19:37:08",
   "stores": [
     "kroger",
     "costco"
   ],
-  "estimated_monthly_savings": 5.1,
+  "estimated_monthly_savings": 10.79,
   "items": [
     {
       "item": "milk",
@@ -142,44 +142,44 @@
       "item": "chicken breast",
       "frequency_per_month": 1.63,
       "target_price": 2.99,
-      "hits_target": true,
-      "monthly_savings": 0.98,
+      "hits_target": false,
+      "monthly_savings": 8.13,
       "best": {
         "store": "Kroger",
-        "name": "Heritage Farm\u00ae Boneless Skinless Chicken Breasts",
-        "price": 1.99,
-        "regular_price": 2.59,
-        "size": "1 lb",
-        "brand": "Heritage Farm",
-        "product_id": "0028334900000",
+        "name": "Kroger\u00ae Boneless Skinless Frozen Chicken Breast BIG DEAL!",
+        "price": 20.0,
+        "regular_price": 24.99,
+        "size": "8 lb",
+        "brand": "Kroger",
+        "product_id": "0001111067942",
         "valid_from": null,
         "valid_to": null,
-        "url": "https://www.kroger.com/p/0028334900000",
+        "url": "https://www.kroger.com/p/0001111067942",
         "notes": null,
-        "savings": 0.6,
+        "savings": 4.99,
         "on_sale": true,
         "unit_price": {
-          "value": 0.1244,
+          "value": 0.1562,
           "unit": "oz"
         }
       },
       "alternatives": [
         {
           "store": "Kroger",
-          "name": "Kroger\u00ae Boneless Skinless Frozen Chicken Breast BIG DEAL!",
-          "price": 20.0,
-          "regular_price": 24.99,
-          "size": "8 lb",
-          "brand": "Kroger",
-          "product_id": "0001111067942",
+          "name": "Heritage Farm\u00ae Boneless Skinless Chicken Breasts",
+          "price": 2.59,
+          "regular_price": 2.59,
+          "size": "1 lb",
+          "brand": "Heritage Farm",
+          "product_id": "0028334900000",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111067942",
+          "url": "https://www.kroger.com/p/0028334900000",
           "notes": null,
-          "savings": 4.99,
-          "on_sale": true,
+          "savings": 0.0,
+          "on_sale": false,
           "unit_price": {
-            "value": 0.1562,
+            "value": 0.1619,
             "unit": "oz"
           }
         },
@@ -364,25 +364,6 @@
       "alternatives": [
         {
           "store": "Kroger",
-          "name": "Kroger\u00ae Rugged + Reliable Paper Towels Double Plus Rolls BIG DEAL!",
-          "price": 20.0,
-          "regular_price": 20.0,
-          "size": "12 ct",
-          "brand": "Kroger",
-          "product_id": "0001111016088",
-          "valid_from": null,
-          "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111016088",
-          "notes": null,
-          "savings": 0.0,
-          "on_sale": false,
-          "unit_price": {
-            "value": 1.6667,
-            "unit": "ct"
-          }
-        },
-        {
-          "store": "Kroger",
           "name": "Kroger\u00ae Ultra Absorbing Power Paper Towels Triple Rolls",
           "price": 18.99,
           "regular_price": 18.99,
@@ -399,72 +380,22 @@
             "value": 2.3737,
             "unit": "ct"
           }
-        }
-      ]
-    },
-    {
-      "item": "coffee",
-      "frequency_per_month": 0.54,
-      "target_price": null,
-      "hits_target": false,
-      "monthly_savings": 1.35,
-      "best": {
-        "store": "Kroger",
-        "name": "Maxwell House Original Roast Ground Coffee, Canister",
-        "price": 12.99,
-        "regular_price": 15.49,
-        "size": "27.5 oz",
-        "brand": "Maxwell House",
-        "product_id": "0004300009422",
-        "valid_from": null,
-        "valid_to": null,
-        "url": "https://www.kroger.com/p/0004300009422",
-        "notes": null,
-        "savings": 2.5,
-        "on_sale": true,
-        "unit_price": {
-          "value": 0.4724,
-          "unit": "oz"
-        }
-      },
-      "alternatives": [
-        {
-          "store": "Kroger",
-          "name": "Kroger\u00ae Original Medium Roast Ground Coffee",
-          "price": 14.49,
-          "regular_price": 14.49,
-          "size": "29 oz",
-          "brand": "Kroger",
-          "product_id": "0001111015000",
-          "valid_from": null,
-          "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111015000",
-          "notes": null,
-          "savings": 0.0,
-          "on_sale": false,
-          "unit_price": {
-            "value": 0.4997,
-            "unit": "oz"
-          }
         },
         {
           "store": "Kroger",
-          "name": "Kroger\u00ae Breakfast Blend Mild Roast Ground Coffee",
-          "price": 6.0,
-          "regular_price": 6.0,
-          "size": "11 oz",
+          "name": "Kroger\u00ae Glimmer Select-A-Sheet Paper Towels Double Rolls",
+          "price": 3.0,
+          "regular_price": 3.0,
+          "size": "2 rolls",
           "brand": "Kroger",
-          "product_id": "0001111010738",
+          "product_id": "0001111010621",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111010738",
+          "url": "https://www.kroger.com/p/0001111010621",
           "notes": null,
           "savings": 0.0,
           "on_sale": false,
-          "unit_price": {
-            "value": 0.5455,
-            "unit": "oz"
-          }
+          "unit_price": null
         }
       ]
     },
@@ -473,62 +404,62 @@
       "frequency_per_month": 0.54,
       "target_price": null,
       "hits_target": false,
-      "monthly_savings": 0.81,
+      "monthly_savings": 0.7,
       "best": {
         "store": "Kroger",
-        "name": "California Goldminer\u00ae Sourdough Square Bread",
-        "price": 3.99,
-        "regular_price": 5.49,
-        "size": "24 oz",
-        "brand": "California Goldminer",
-        "product_id": "0003967707112",
+        "name": "Nature's Own Honey Wheat Bread, Non-GMO Sandwich Bread, 20 oz Loaf",
+        "price": 2.99,
+        "regular_price": 4.29,
+        "size": "20 oz",
+        "brand": "Nature's Own",
+        "product_id": "0007225003706",
         "valid_from": null,
         "valid_to": null,
-        "url": "https://www.kroger.com/p/0003967707112",
+        "url": "https://www.kroger.com/p/0007225003706",
         "notes": null,
-        "savings": 1.5,
+        "savings": 1.3,
         "on_sale": true,
         "unit_price": {
-          "value": 0.1663,
+          "value": 0.1495,
           "unit": "oz"
         }
       },
       "alternatives": [
         {
           "store": "Kroger",
-          "name": "GOLDMINER CRACKED WHEAT SOURDOUGH SQUARE BREAD",
-          "price": 3.99,
-          "regular_price": 5.49,
-          "size": "24 oz",
-          "brand": "California Goldminer",
-          "product_id": "0003967707213",
+          "name": "Wonder Classic White Bread",
+          "price": 3.29,
+          "regular_price": 3.29,
+          "size": "20 oz",
+          "brand": "Wonder",
+          "product_id": "0007225001137",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0003967707213",
+          "url": "https://www.kroger.com/p/0007225001137",
           "notes": null,
-          "savings": 1.5,
-          "on_sale": true,
+          "savings": 0.0,
+          "on_sale": false,
           "unit_price": {
-            "value": 0.1663,
+            "value": 0.1645,
             "unit": "oz"
           }
         },
         {
           "store": "Kroger",
-          "name": "Sara Lee Honey Wheat Bread",
-          "price": 3.49,
-          "regular_price": 3.99,
-          "size": "20 oz",
-          "brand": "Sara Lee",
-          "product_id": "0007294560136",
+          "name": "California Goldminer\u00ae Sourdough Square Bread",
+          "price": 3.99,
+          "regular_price": 5.49,
+          "size": "24 oz",
+          "brand": "California Goldminer",
+          "product_id": "0003967707112",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0007294560136",
+          "url": "https://www.kroger.com/p/0003967707112",
           "notes": null,
-          "savings": 0.5,
+          "savings": 1.5,
           "on_sale": true,
           "unit_price": {
-            "value": 0.1745,
+            "value": 0.1663,
             "unit": "oz"
           }
         }
@@ -582,8 +513,8 @@
         {
           "store": "Kroger",
           "name": "Kroger\u00ae Creamy Peanut Butter",
-          "price": 2.29,
-          "regular_price": 2.29,
+          "price": 2.59,
+          "regular_price": 2.59,
           "size": "16 oz",
           "brand": "Kroger",
           "product_id": "0001111001618",
@@ -594,7 +525,73 @@
           "savings": 0.0,
           "on_sale": false,
           "unit_price": {
-            "value": 0.1431,
+            "value": 0.1619,
+            "unit": "oz"
+          }
+        }
+      ]
+    },
+    {
+      "item": "coffee",
+      "frequency_per_month": 0.54,
+      "target_price": null,
+      "hits_target": false,
+      "monthly_savings": 0.0,
+      "best": {
+        "store": "Kroger",
+        "name": "Kroger\u00ae Original Medium Roast Ground Coffee",
+        "price": 14.49,
+        "regular_price": 14.49,
+        "size": "29 oz",
+        "brand": "Kroger",
+        "product_id": "0001111015000",
+        "valid_from": null,
+        "valid_to": null,
+        "url": "https://www.kroger.com/p/0001111015000",
+        "notes": null,
+        "savings": 0.0,
+        "on_sale": false,
+        "unit_price": {
+          "value": 0.4997,
+          "unit": "oz"
+        }
+      },
+      "alternatives": [
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae Breakfast Blend Mild Roast Ground Coffee",
+          "price": 6.0,
+          "regular_price": 6.0,
+          "size": "11 oz",
+          "brand": "Kroger",
+          "product_id": "0001111010738",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111010738",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.5455,
+            "unit": "oz"
+          }
+        },
+        {
+          "store": "Kroger",
+          "name": "Kroger\u00ae French Vanilla Medium Roast Ground Coffee",
+          "price": 6.0,
+          "regular_price": 6.0,
+          "size": "11 oz",
+          "brand": "Kroger",
+          "product_id": "0001111010742",
+          "valid_from": null,
+          "valid_to": null,
+          "url": "https://www.kroger.com/p/0001111010742",
+          "notes": null,
+          "savings": 0.0,
+          "on_sale": false,
+          "unit_price": {
+            "value": 0.5455,
             "unit": "oz"
           }
         }
@@ -647,20 +644,20 @@
         },
         {
           "store": "Kroger",
-          "name": "Kroger\u00ae Vanilla Blended Nonfat Greek Yogurt Tub",
-          "price": 4.29,
-          "regular_price": 4.29,
+          "name": "Simple Truth Organic\u00ae Plain Nonfat Greek Yogurt Tub",
+          "price": 4.99,
+          "regular_price": 4.99,
           "size": "32 oz",
-          "brand": "Kroger",
-          "product_id": "0001111010716",
+          "brand": "Simple Truth Organic",
+          "product_id": "0001111010760",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111010716",
+          "url": "https://www.kroger.com/p/0001111010760",
           "notes": null,
           "savings": 0.0,
           "on_sale": false,
           "unit_price": {
-            "value": 0.1341,
+            "value": 0.1559,
             "unit": "oz"
           }
         }
