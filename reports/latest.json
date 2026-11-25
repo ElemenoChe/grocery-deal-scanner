@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T20:33:21",
+  "generated": "2026-11-25T21:43:44",
   "stores": [
     "kroger",
     "costco"
@@ -515,20 +515,20 @@
         },
         {
           "store": "Kroger",
-          "name": "Kroger\u00ae Honey Peanut Butter Spread Creamy",
+          "name": "Kroger\u00ae Natural Peanut Butter Creamy",
           "price": 1.67,
           "regular_price": 2.59,
-          "size": "16 oz",
+          "size": "15 oz",
           "brand": "Kroger",
-          "product_id": "0001111001652",
+          "product_id": "0001111001649",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111001652",
+          "url": "https://www.kroger.com/p/0001111001649",
           "notes": null,
           "savings": 0.92,
           "on_sale": true,
           "unit_price": {
-            "value": 0.1044,
+            "value": 0.1113,
             "unit": "oz"
           }
         }
@@ -608,35 +608,32 @@
       "monthly_savings": 0.0,
       "best": {
         "store": "Kroger",
-        "name": "Kroger\u00ae Ultra Absorbing Power Paper Towels Triple Rolls",
-        "price": 18.99,
-        "regular_price": 18.99,
-        "size": "8 ct",
+        "name": "Kroger\u00ae Glimmer Select-A-Sheet Paper Towels Double Rolls",
+        "price": 3.0,
+        "regular_price": 3.0,
+        "size": "2 rolls",
         "brand": "Kroger",
-        "product_id": "0001111014187",
+        "product_id": "0001111010621",
         "valid_from": null,
         "valid_to": null,
-        "url": "https://www.kroger.com/p/0001111014187",
+        "url": "https://www.kroger.com/p/0001111010621",
         "notes": null,
         "savings": 0.0,
         "on_sale": false,
-        "unit_price": {
-          "value": 2.3737,
-          "unit": "ct"
-        }
+        "unit_price": null
       },
       "alternatives": [
         {
           "store": "Kroger",
-          "name": "Kroger\u00ae Glimmer Select-A-Sheet Paper Towels Double Rolls",
-          "price": 3.0,
-          "regular_price": 3.0,
+          "name": "Kroger\u00ae Ultra Paper Towels With Absorbing Power Triple Rolls",
+          "price": 6.49,
+          "regular_price": 6.49,
           "size": "2 rolls",
           "brand": "Kroger",
-          "product_id": "0001111010621",
+          "product_id": "0001111014184",
           "valid_from": null,
           "valid_to": null,
-          "url": "https://www.kroger.com/p/0001111010621",
+          "url": "https://www.kroger.com/p/0001111014184",
           "notes": null,
           "savings": 0.0,
           "on_sale": false,

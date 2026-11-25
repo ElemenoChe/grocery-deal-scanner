@@ -1,6 +1,6 @@
 # Grocery Deal Report
 
-Generated 2026-11-18 20:33 · Stores: kroger, costco
+Generated 2026-11-25 21:43 · Stores: kroger, costco
 
 **10/10 list items found · est. savings $9.80/month at your usual buying rate**
 
@@ -17,11 +17,11 @@ Generated 2026-11-18 20:33 · Stores: kroger, costco
 | **bread** | 0.54 | Kroger | Wonder Classic White Bread | 20 oz | $2.79 | $3.29 | $0.14/oz | $0.27 |
 | **peanut butter** | 0.54 | Kroger | Kroger® Peanut Butter Creamy BIG Deal! | 64 oz | $6.00 | $6.49 | $0.094/oz | $0.26 |
 | **greek yogurt** | 0.54 | Kroger | Kroger® Plain Nonfat Greek Yogurt Tub | 32 oz | $4.29 | $4.29 | $0.13/oz | $0.00 |
-| **paper towels** | 0.54 | Kroger | Kroger® Ultra Absorbing Power Paper Towels Triple Rolls | 8 ct | $18.99 | $18.99 | $2.37/ct | $0.00 |
+| **paper towels** | 0.54 | Kroger | Kroger® Glimmer Select-A-Sheet Paper Towels Double Rolls | 2 rolls | $3.00 | $3.00 | n/a | $0.00 |
 
 ## Shopping trip by store
 
-**Kroger** (10 items, $72.43)
+**Kroger** (10 items, $56.44)
 - [ ] milk: Kroger® 2% Reduced Fat Milk Half Gallon @ $1.99
 - [ ] eggs: Kroger® Medium Grade A White Eggs @ $3.89
 - [ ] chicken breast: Kroger® Boneless Skinless Frozen Chicken Breast BIG DEAL! @ $20.00
@@ -31,7 +31,7 @@ Generated 2026-11-18 20:33 · Stores: kroger, costco
 - [ ] bread: Wonder Classic White Bread @ $2.79
 - [ ] peanut butter: Kroger® Peanut Butter Creamy BIG Deal! @ $6.00
 - [ ] greek yogurt: Kroger® Plain Nonfat Greek Yogurt Tub @ $4.29
-- [ ] paper towels: Kroger® Ultra Absorbing Power Paper Towels Triple Rolls @ $18.99
+- [ ] paper towels: Kroger® Glimmer Select-A-Sheet Paper Towels Double Rolls @ $3.00
 
 
 🎯 means at or below your target price.
